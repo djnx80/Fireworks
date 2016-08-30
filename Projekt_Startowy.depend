@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1448553002 source:e:\codeblock\projekt_startowy\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+
+1446964366 e:\codeblock\projekt_startowy\allegrostart.h
+
+1448553060 source:e:\codeblock\projekt_startowy\main.cpp
+	<stdio.h>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	"rysuj.h"
+
+1447596704 e:\codeblock\projekt_startowy\rysuj.h
+
+1448207333 source:e:\codeblock\projekt_startowy\rysuj.cpp
+	<stdio.h>
+	<cstdlib>
+	<math.h>
+	"rysuj.h"
+
+1452027507 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\codeblock\projekt_startowy\main.cpp
+	<stdio.h>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	"rysuj.h"
+
+1446967966 f:\kody zrodlowe\z pendrivea - kody zrodlowe\codeblock\projekt_startowy\allegrostart.h
+
+1447600304 f:\kody zrodlowe\z pendrivea - kody zrodlowe\codeblock\projekt_startowy\rysuj.h
+
+1448210933 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\codeblock\projekt_startowy\rysuj.cpp
+	<stdio.h>
+	<cstdlib>
+	<math.h>
+	"rysuj.h"
+
+1448556602 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\codeblock\projekt_startowy\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+
+1467388800 source:i:\cb\projekt_startowy\main.cpp
+	<stdio.h>
+	"allegro5/allegro.h"
+	"allegroStart.h"
+	"rysuj.h"
+
+1467383791 i:\cb\projekt_startowy\allegrostart.h
+
+1467383791 i:\cb\projekt_startowy\rysuj.h
+
+1467386960 source:i:\cb\projekt_startowy\rysuj.cpp
+	<cstdlib>
+	<math.h>
+	"rysuj.h"
+
+1467386046 source:i:\cb\projekt_startowy\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+
